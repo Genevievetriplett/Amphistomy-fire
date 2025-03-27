@@ -1,0 +1,117 @@
+Genus,species,amphistomy_presence,native,woody,R analog,leaf_angle,leaf_waxyness,leaf_pubescence,resprout vs seed,family
+Argemone,mexicana,1,2,0,argemone_mexicana,1,2,0,0,Papaveraceae
+Asimina,obovata,0,3,2,asimina_obovata,0,1,0,1,Annonaceae
+Asimina,reticulata,0,2,2,asimina_angustifolia,2,1,0,0,Annonaceae
+Baccaris,hamilifolia,1,2,2,baccharis_halimifolia,2,0,1,0,Asteraceae
+Balduina,angustifolia,1,2,0,balduina_angustifolia,0,0,0,2,Asteraceae
+Bejaria,racemosa,1,2,2,bejaria_racemosa,2,1,0,1,Ericaceae
+Bidens,alba,1,2,0,bidens_alba,0,0,0,0,Asteraceae
+Buchnera,floridana,1,2,0,buchnera_floridana,1,0,0,0,Orobanchaceae
+Calamintha,ashei,1,2,2,clinopodium_debile,2,0,3,2,Lamiaceae
+Callicarpa,americana,0,2,2,callicarpa_americana,0,0,1,0,Lamiaceae
+Callisia,ornata,0,2,0,callisia_fragrans,2,1,0,0,Commelinaceae
+Carphephorus,corymbosus ,1,2,0,carphephorus_pseudoliatris,1,0,0,1,Asteraceae
+Carya,floridana,0,3,2,carya_sinensis,0,1,0,1,Juglandaceae
+Catharanthus ,roseus,1,1,1,catharanthus_roseus,0,2,0,0,Apocynaceae
+Ceratiola,ericoides,0,2,2,ceratiola_ericoides,0,2,0,2,Ericaceae
+Chamaecrista,fasciculata,1,2,0,chamaecrista_fasciculata,1,0,0,2,Fabaceae
+Chapmannia,floridana,1,3,0,brya_ebenus,0,0,0,2,Fabaceae
+Chionanthus ,pygmaeus,0,3,2,chionanthus_virginicus,0,2,0,0,Oleaceae
+Chrysopsis,highlandsensis,1,3,0,chrysopsis_mariana,2,0,3,0,Asteraceae
+Cirsium,nuttallii,1,2,0,cirsium_scariosum,1,2,0,0,Asteraceae
+Clitoria,fragrans,0,3,0,clitoria_ternatea,0,0,0,0,Fabaceae
+Cnidoscolus ,stimulosus,1,2,0,cnidoscolus_tubulosus,0,1,1,2,Euphorbiaceae
+Commelina,erecta,1,2,0,commelina_virginica,0,1,1,0,Commelinaceae
+Crotalaria,pallida,1,0,0,crotalaria_capensis,1,0,1,0,Fabaceae
+Dalea,feayi,1,2,1,dalea_purpurea,0,0,0,2,Fabaceae
+Desmodium,incanum,0,1,1,desmodium_elegans,,,,0,fabaceae
+Dicerandra,frutescens,1,3,1,conradina_verticillata,1,0,0,0,Lamiaceae
+Drosera,capillaris,1,2,0,drosera_capillaris,0,0,1,0,Droseraceae
+Elephantopus,elatus,1,2,0,elephantopus_scaber,0,0,1,0,Asteraceae
+Eriogonum,longifolium,1,3,0,eriogonum_lemmonii,1,0,2,0,Polygonaceae
+Eryngium,cuneifolium,1,3,0,eryngium_caucasicum,2,2,0,2,Apiaceae
+Eryngium,aromaticum,1,2,0,eryngium_articulatum,1,1,0,0,Apiaceae
+Eryngium,yuccifolium,1,2,0,eryngium_yuccifolium,2,1,0,0,Apiaceae
+Erythrina,herbacea,1,2,1,erythrina_fusca,0,1,0,0,Fabaceae
+Euphorbia,rosescens,1,3,0,euphorbia_nicaeensis,1,2,0,1,Euphorbiaceae
+Euphorbia,heterophylla,1,2,0,euphorbia_heterophylla,0,2,0,0,Euphorbiaceae
+Galactia,elliottii,1,2,0,galactia_texana,0,1,0,1,Fabaceae
+Galactia,purshii,1,2,0,galactia_wrightii,0,1,0,0,Fabaceae
+Garberia,heterophylla,1,3,2,eutrochium_maculatum,2,0,3,2,Asteraceae
+Gaylussacia,dumosa,0,2,2,gaylussacia_dumosa,2,2,0,1,Ericaceae
+Gelsemium,sempervirens,0,2,2,gelsemium_sempervirens,0,1,0,1,Gelsemiaceae
+Geobalinus,oblongifolius,0,2,1,licania_canescens,1,2,0,1,Chrysobalanaceae
+Hieracium,megacephalon,0,2,0,hieracium_floribundum,0,0,1,0,Asteraceae
+Houstonia,procumbens,1,2,0,houstonia_micrantha,0,1,0,0,Rubiaceae
+Hypericum,cumulicola,1,3,0,hypericum_australe,2,0,0,2,Hypericaceae
+Hypericum,edisonianum,0,3,2,hypericum_hypericoides,2,0,1,0,Hypericaceae
+Hypericum,tenuifolium,0,2,2,hypericum_sampsonii,0,0,0,2,Hypericaceae
+Ilex,arenicola,0,3,2,ilex_corallina,0,2,0,1,Aquifoliaceae
+Ilex,glabra,0,2,2,ilex_glabra,1,2,0,1,Aquifoliaceae
+Indigofera,caroliniana,1,2,0,indigofera_cuernavacana,0,0,1,0,Fabaceae
+Indigofera,spicata,1,1,0,indigofera_spicata,1,0,1,0,fabaceae
+Lantana,strigocamara,0,0,2,lantana_camara,0,0,1,0,Verbenaceae
+Lechea,cernua,1,3,0,cistus_symphytifolius,2,0,3,2,Cistaceae
+Lechea,deckertii,1,3,1,cistus_creticus,1,0,0,2,Cistaceae
+Liatris,ohlingerae,1,3,0,liatris_chapmanii,2,1,0,1,Asteraceae
+Ludwigia,peruviana,0,0,2,ludwigia_peruviana,0,0,0,0,Onagraceae
+Lupinus,cumulicola,1,3,1,lupinus_luteolus,1,0,3,0,Fabaceae
+Lyonia,ferruginea,0,2,2,lyonia_ovalifolia,2,0,2,1,Ericaceae
+Lyonia,fruticosa,0,2,2,lyonia_ligustrina,2,0,2,1,Ericaceae
+Lyonia ,lucida,0,2,2,lyonia_lucida,1,2,0,1,Ericaceae
+Macroptilium,lathyroides,1,0,0,macroptilium_lathyroides,0,0,0,0,Fabaceae
+Momordica,charantia,0,0,0,momordica_charantia,0,0,1,0,Cucurbitaceae
+Morella,cerifera,0,2,2,morella_cerifera,1,1,0,1,Myricaceae
+Palafoxia,feayi,1,3,2,palafoxia_arida,2,0,0,2,Asteraceae
+Parthenocissus,quinquefolia,0,2,2,parthenocissus_quinquefolia,0,2,0,0,Vitaceae
+Peltandra ,virginica,0,2,0,peltandra_virginica,1,2,0,0,Araceae
+Persea,humilis,0,3,2,persea_indica,1,2,2,1,Lauraceae
+Persea,borbonia,0,2,2,persea_borbonia,1,2,0,1,Lauraceae
+Phoradendron,leucarpum,1,2,2,phoradendron_californicum,1,2,0,0,Santalaceae
+Physalis,sp,1,2,0,physalis_virginiana,1,0,1,0,Solanaceae
+Piloblephis,rigida,1,2,1,satureja_montana,1,0,0,0,Lamiaceae
+Pityopsis,graminifolia,1,2,0,pityopsis_pinifolia,2,0,2,2,Asteraceae
+Pleopeltis,michauxiana,0,2,0,pleopeltis_polypodioides,1,0,0,0,Polypodiaceae
+Polanisia,tenuifolia,1,2,0,polanisia_uniglandulosa,0,0,0,0,Cleomaceae
+Polygala,polyganum,1,2,0,polygala_polygama,1,0,1,0,Polygalaceae
+Polygala,nana,1,2,0,polygala_alba,0,1,0,0,Polygalaceae
+Polygonum,nesomii,1,3,1,polygonum_scabrum,2,0,0,0,Polygonaceae
+Pseudoziziphus,celata,0,3,2,ziziphus_jujuba,0,2,0,0,Rhamnaceae
+Pteridium,aquilinum,0,2,0,pteridium_aquilinum,0,0,0,1,Dennstaedtiaceae
+Pteridium,caudatum,0,2,0,pteridium_esculentum,1,0,0,0,Dennstaedtiaceae
+Pterocaulon,pycnostadium,0,2,0,conyza_stricta,0,0,2,1,Asteraceae
+Quercus,geminata,0,2,2,quercus_geminata,1,1,2,1,Fagaceae
+Quercus,chapmanii,0,2,2,quercus_chapmanii,1,2,0,1,Fagaceae
+Quercus,inopina,0,3,2,quercus_floribunda,1,1,1,1,Fagaceae
+Quercus,laevis,0,2,2,quercus_laevis,0,2,0,1,Fagaceae
+Quercus,laurifolia,0,2,2,quercus_glauca,0,2,0,0,Fagaceae
+Quercus,minima,0,2,2,quercus_minima,1,2,1,1,Fagaceae
+Quercus,myrtifolia,0,2,2,quercus_myrtifolia,1,2,0,1,Fagaceae
+Rhus ,copallinum,0,2,2,rhus_aromatica,0,2,0,1,Anacardiaceae
+Rhynchosia ,cinerea,1,3,0,rhynchosia_capensis,0,0,0,0,Fabaceae
+Richardia,grandiflora,1,0,0,richeria_grandis,0,0,0,0,Rubiaceae
+Rubus,trivialis,0,2,0,rubus_hoffmeisterianus,0,0,1,0,Rosaceae
+Sabal,etonia,1,3,2,sabal_etonia,2,2,0,2,Arecaceae
+Salvia,lyrata,1,2,0,salvia_lyrata,0,0,0,0,Lamiaceae
+Schinus,terebinthifolia,0,0,2,schinus_terebinthifolius,0,2,0,0,Anacardiaceae
+Serenoa,repens,1,2,2,serenoa_repens,2,2,0,2,Arecaceae
+Sericocarpus ,tortifolius,1,2,0,solidago_speciosa,2,0,1,2,Asteraceae
+Sideroxylon,tenax,0,2,2,sideroxylon_tenax,1,1,2,1,Sapotaceae
+Sisyrinchium,xerophyllum,1,2,0,sisyrinchium_miamiense,2,1,0,1,Iridaceae
+Smilax,auriculata,0,2,0,smilax_glauca,2,2,0,2,Smilacaceae
+Smilax,bona-nox,0,2,0,smilax_bona,0,2,0,0,Smilacaceae
+Spermacoce,verticillata,1,0,0,spermacoce_hispida,0,0,0,0,Rubiaceae
+Stylisma,abdita,1,3,0,stylisma_patens,0,0,1,1,Convolvulaceae
+Tephrosia,mysteriosa,1,3,0,tephrosia_heckmanniana,0,0,1,0,Fabaceae
+Tradescantia,roseolens,1,2,0,tradescantia_pallida,1,1,0,1,Commelinaceae
+Trichostema,bridgesii-orzellii,1,3,1,trichostema_dichotomum,1,0,0,2,Lamiaceae
+Urena ,lobata,1,0,1,urena_lobata,0,0,3,0,Malvoideae
+Vaccinium ,myrsinites,0,2,2,vaccinium_myrsinites,0,2,0,1,Ericaceae
+Vaccinium ,darrowii,0,2,2,vaccinium_smallii,0,2,0,1,Ericaceae
+Vigna,luteola,1,2,0,vigna_luteola,1,1,0,0,Fabaceae
+Vitis,rotundifolia,0,2,2,vitis_rotundifolia,2,1,0,2,Vitaceae
+Woodwardia,virginica,0,2,0,blechnum_occidentale,0,1,0,0,Blechnaceae
+Ximenia,americana,1,2,2,ximenia_americana,2,2,0,2,Olacaceae
+Yucca,aloifolia,1,2,2,yucca_aloifolia,1,2,0,0,Asparagaceae
+Yucca,filamentosa,1,2,2,yucca_filamentosa,1,2,0,1,Asparagaceae
+Zamia,integrifolia,0,3,2,zamia_integrifolia,1,2,0,0,Zamiaceae
