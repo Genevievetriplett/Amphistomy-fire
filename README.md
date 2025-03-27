@@ -13,4 +13,4 @@ there are three experiments here:
      > constructed linear mixed-effects models using time-since-fire as a fixed effect and site as a random effect to analyze the difference in both stomatal ratio and stomatal density
      > two methods- compare within- individual response using their oldest and newest leaves, and compare across individuals, holding leaf age relatively constant
 
-This was my first experience with both r and github, Having largely taught myself (you can probably tell). Please message me if there are any issues
+This was my first experience with both r and github having largely taught myself (you can probably tell). Please message me if there are any issues
