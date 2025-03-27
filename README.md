@@ -36,9 +36,8 @@ This project includes three main experiments:
 
 ## 📁 Contents
 
-- `*.R` — All R scripts used for data cleaning, analysis, and visualization
+- `*.R` — All R scripts used for data cleaning, analysis, and visualization (including all figures)
 - `data/` — Associated datasets
-- `figures/` (if included) — Plots and figures generated
 - `README.md` — Project summary and guidance (this file)
 
 ---
